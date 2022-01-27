@@ -4,7 +4,7 @@ public class FirstApp {
     public static void main(String[] args) {
     int a = 3, b = 15;
     int c = 1900;
-    String text = "Printing";
+    String text = "Printing...";
         System.out.print(text);
         System.out.println(sum(a, b));//1
         isPositive(a);//2
